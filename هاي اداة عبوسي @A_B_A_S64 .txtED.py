@@ -1,3 +1,5 @@
+
+
 __obfuscator__ = "ZAID" 
 
 __tele__ = "@A_B_A_S64" 
@@ -21,4 +23,3 @@ __obfuscator__ = "@A_B_A_S64"
 
 
 #تم التشفير بواسطه عبوسي @A_B_A_S64 
-
