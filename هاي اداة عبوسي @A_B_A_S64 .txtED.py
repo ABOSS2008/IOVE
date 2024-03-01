@@ -1,4 +1,4 @@
-ر
+
 __obfuscator__ = "ZAID" 
 
 __tele__ = "@A_B_A_S64" 
